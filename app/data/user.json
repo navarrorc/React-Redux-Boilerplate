@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "eleanor",
+        "last": "torres"
+    },
+    "location": {
+        "street": "6238 poplar dr",
+        "city": "elizabeth",
+        "state": "oklahoma",
+        "postcode": 28503
+    },
+    "email": "eleanor.torres@example.com",
+    "login": {
+        "username": "ticklishkoala813",
+        "password": "eduardo",
+        "salt": "eDrOMOuS",
+        "md5": "a63ddae0244cbc85222a56c481555924",
+        "sha1": "411b18798858f2ea1d12fe3f322622c31c3c8ef7",
+        "sha256": "6b5aa33e7ea0dbf811cdb758f978cdd38c36a354e07161b8106876d38bae0b5e"
+    },
+    "dob": "1947-05-01 23:45:16",
+    "registered": "2012-11-25 19:39:28",
+    "phone": "(213)-146-5955",
+    "cell": "(901)-344-1224",
+    "id": {
+        "name": "SSN",
+        "value": "211-41-1580"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/68.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
+    },
+    "nat": "US"
+}
