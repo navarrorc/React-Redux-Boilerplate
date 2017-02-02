@@ -14,15 +14,15 @@ class App extends Component {
 
     constructor(props) {
         super(props)
-        this.state = 
-            { 
-                user: { 
-                        gender: '',
-                        name: { title: '', first: '', last: '' }, 
-                        picture: { thumbnail: '', medium: '', large: '' },
-                        email: ''
-                } 
+        this.state = {
+            user: {
+                gender: '',
+                name: { title: '', first: '', last: '' },
+                picture: { thumbnail: '', medium: '', large: '' },
+                email: ''
             }
+        }
+        
     }
 
     componentDidMount() {
